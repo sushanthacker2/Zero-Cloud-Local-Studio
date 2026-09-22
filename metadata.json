@@ -1,0 +1,7 @@
+{
+  "name": "HP Copilot+ Local Creator Studio",
+  "description": "Zero-Cloud Local Multimodal Workspace Assistant powered by Qualcomm Hexagon NPU and ONNX Runtime QNN EP for off-grid creators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
